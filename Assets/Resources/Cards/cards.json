@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Shield Bearer",
+      "cost": 2,
+      "power": 3,
+      "abilities": [
+        "BlockNextAttack"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Arcane Thief",
+      "cost": 3,
+      "power": 2,
+      "abilities": [
+        "StealPoints"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Power Surge",
+      "cost": 4,
+      "power": 5,
+      "abilities": [
+        "DoublePower"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Battle Scout",
+      "cost": 1,
+      "power": 2,
+      "abilities": [
+        "DrawExtraCard"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Guardian Monk",
+      "cost": 2,
+      "power": 4,
+      "abilities": [
+        "GainPoints"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Blade Dancer",
+      "cost": 3,
+      "power": 4,
+      "abilities": []
+    }
+  ]
+}
+
+
